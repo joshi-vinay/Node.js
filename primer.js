@@ -107,4 +107,7 @@ class Book
     console.log(book);
 
 
-
+var obj = {ford:"endeavour",maruti:"dzire",hyundai:"verna"}
+console.log(obj.ford);
+console.log(obj.maruti);
+console.log(obj.hyundai);
